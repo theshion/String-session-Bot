@@ -25,7 +25,8 @@ else:
     API_ID = 20787644
     API_HASH = "9dada820698e8a5fdd5e6cc78fac8567"
     BOT_TOKEN = "7939164806:AAFM_IcYWxPqVVbKGbdlEThnXLQ4qHS1AYA"
-    DATABASE_URL = "postgres://ibuhxvqz:U9G_va-Z7PEC_l3wZeuI2-iSUyYok_0E@rain.db.elephantsql.com/ibuhxvqz"
+    DATABASE_URL = "mongodb+srv://abc:abc@music.dlua0.mongodb.net/yukk
+i?retryWrites=true&w=majority"
     
     # Ensure SQLAlchemy compatibility
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")  
